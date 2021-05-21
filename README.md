@@ -76,15 +76,14 @@ The chrome-headless property if true the chrome will run in headless mode the GU
 chrome-path is the chrome driver path.
 
 
-6. Run Tests
-Open terminal / CMD
-Go to project directory
-To clean target folder (were all test results stored) run command:
-"mvn clean"
-To run all tests run command:
-"mvn test"
-To run certain  tests run command:
-"mvn -Dtest=Verify* test"
+6. Run Tests Open terminal / CMD Go to project directory
+
+. To clean target folder (were all test results stored) run command:
+  "mvn clean"
+. To run all tests run command:
+  "mvn test"
+. To run certain  tests run command:
+  "mvn -Dtest=Verify* test"
 Will run all test classes starts with "Verify"
 
 
