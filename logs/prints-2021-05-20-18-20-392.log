@@ -1,0 +1,53 @@
+10:07:05.932 [main] INFO  mcmakler.VerifyAddNewAdWithValidData - START: Test login with valid email and password
+10:09:49.175 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+10:11:28.102 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+10:12:12.082 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+10:17:10.771 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:49:21.641 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:50:54.596 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:52:07.585 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:52:46.338 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:53:25.077 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:54:39.846 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:56:01.198 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:57:13.563 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:57:48.725 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:59:03.520 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+11:59:55.447 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+12:19:02.804 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+12:21:39.149 [main] INFO  mcmakler.test.actios.WebElementAction - START: Test login with valid email and password
+12:35:15.957 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+12:35:16.020 [main] INFO  mcmakler.test.base.MainDriver - nnnnnnnnn START: Test login with valid email and password
+12:44:47.377 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+12:44:47.439 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+12:44:47.575 [main] INFO  mcmakler.test.base.MainDriver - clickadd new ad link
+12:44:47.938 [main] TRACE mcmakler.test.base.MainDriver - add new ad linkclicked
+12:46:24.896 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+12:46:24.954 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+12:46:25.066 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+12:46:25.361 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked
+12:48:24.233 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+12:48:24.290 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+12:48:24.389 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+12:48:24.459 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked trace
+12:48:24.463 [main] DEBUG mcmakler.test.base.MainDriver - add new ad link clicked debug
+18:13:17.928 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+18:13:17.970 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+18:13:18.042 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+18:13:18.122 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked trace
+18:13:18.131 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+18:13:18.357 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Name input
+18:13:18.727 [main] TRACE mcmakler.test.base.MainDriver - Ad Name input text entered
+18:20:17.665 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+18:20:17.698 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+18:20:17.786 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+18:20:17.862 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked trace
+18:20:17.867 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+18:20:18.035 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Name input
+18:20:18.280 [main] TRACE mcmakler.test.base.MainDriver - Ad Name input text entered
+18:20:47.808 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidData
+18:20:47.849 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+18:20:47.913 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+18:20:48.012 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked trace
+18:20:48.018 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+18:20:48.151 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Name input

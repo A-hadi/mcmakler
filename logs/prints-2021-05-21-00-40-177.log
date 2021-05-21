@@ -1,0 +1,62 @@
+22:55:37.054 [main] TRACE mcmakler.test.base.MainDriver - Ad name is displayed
+22:55:37.065 [main] TRACE mcmakler.test.base.MainDriver - Ad street is displayed
+22:55:37.066 [main] TRACE mcmakler.test.base.MainDriver - Ad rooms is displayed
+22:55:37.066 [main] TRACE mcmakler.test.base.MainDriver - Ad price is displayed
+22:55:37.067 [main] TRACE mcmakler.test.base.MainDriver - Ad currency is displayed
+22:55:37.067 [main] TRACE mcmakler.test.base.MainDriver - Ad active is displayed
+22:55:39.510 [main] TRACE mcmakler.test.base.MainDriver - Ad name is saved
+22:55:39.786 [main] TRACE mcmakler.test.base.MainDriver - Ad street is saved
+22:55:40.045 [main] TRACE mcmakler.test.base.MainDriver - Ad rooms is saved
+22:55:40.301 [main] TRACE mcmakler.test.base.MainDriver - Ad price is saved
+22:55:40.557 [main] TRACE mcmakler.test.base.MainDriver - Ad status is saved
+00:39:54.895 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyAddNewAdWithValidDataTest
+00:39:55.003 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+00:39:55.117 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+00:39:55.291 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked
+00:39:55.299 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+00:39:55.369 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Name input
+00:39:55.681 [main] TRACE mcmakler.test.base.MainDriver - Ad Name input text entered
+00:39:55.682 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Street input
+00:39:55.880 [main] TRACE mcmakler.test.base.MainDriver - Ad Street input text entered
+00:39:55.881 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Rooms input
+00:39:55.967 [main] TRACE mcmakler.test.base.MainDriver - Ad Rooms input text entered
+00:39:55.968 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Price input
+00:39:56.085 [main] TRACE mcmakler.test.base.MainDriver - Ad Price input text entered
+00:39:56.085 [main] INFO  mcmakler.test.base.MainDriver - click ad Status checkbox
+00:39:56.185 [main] TRACE mcmakler.test.base.MainDriver - ad Status checkbox clicked
+00:39:56.185 [main] INFO  mcmakler.test.base.MainDriver - click ad save button
+00:39:56.276 [main] TRACE mcmakler.test.base.MainDriver - ad save button clicked
+00:39:56.284 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+00:39:57.018 [main] TRACE mcmakler.test.base.MainDriver - Ad name is displayed
+00:39:57.019 [main] TRACE mcmakler.test.base.MainDriver - Ad street is displayed
+00:39:57.019 [main] TRACE mcmakler.test.base.MainDriver - Ad rooms is displayed
+00:39:57.019 [main] TRACE mcmakler.test.base.MainDriver - Ad price is displayed
+00:39:57.019 [main] TRACE mcmakler.test.base.MainDriver - Ad currency is displayed
+00:39:57.020 [main] TRACE mcmakler.test.base.MainDriver - Ad active is displayed
+00:39:59.470 [main] TRACE mcmakler.test.base.MainDriver - Ad name is saved
+00:39:59.740 [main] TRACE mcmakler.test.base.MainDriver - Ad street is saved
+00:39:59.970 [main] TRACE mcmakler.test.base.MainDriver - Ad rooms is saved
+00:40:00.235 [main] TRACE mcmakler.test.base.MainDriver - Ad price is saved
+00:40:00.465 [main] TRACE mcmakler.test.base.MainDriver - Ad status is saved
+00:40:04.593 [main] INFO  mcmakler.test.base.MainDriver - START: mcmakler.VerifyEditAdWithValidDataTest
+00:40:04.593 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+00:40:04.725 [main] INFO  mcmakler.test.base.MainDriver - click add new ad link
+00:40:04.826 [main] TRACE mcmakler.test.base.MainDriver - add new ad link clicked
+00:40:04.829 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+00:40:05.013 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Name input
+00:40:05.236 [main] TRACE mcmakler.test.base.MainDriver - Ad Name input text entered
+00:40:05.236 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Street input
+00:40:05.403 [main] TRACE mcmakler.test.base.MainDriver - Ad Street input text entered
+00:40:05.403 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Rooms input
+00:40:05.518 [main] TRACE mcmakler.test.base.MainDriver - Ad Rooms input text entered
+00:40:05.519 [main] INFO  mcmakler.test.base.MainDriver - enter text Ad Price input
+00:40:05.633 [main] TRACE mcmakler.test.base.MainDriver - Ad Price input text entered
+00:40:05.634 [main] INFO  mcmakler.test.base.MainDriver - click ad Status checkbox
+00:40:05.734 [main] TRACE mcmakler.test.base.MainDriver - ad Status checkbox clicked
+00:40:05.734 [main] INFO  mcmakler.test.base.MainDriver - click ad save button
+00:40:05.842 [main] TRACE mcmakler.test.base.MainDriver - ad save button clicked
+00:40:05.843 [main] INFO  mcmakler.test.base.MainDriver - add new ad link
+00:40:06.549 [main] INFO  mcmakler.test.base.MainDriver - click saved ad
+00:40:06.581 [main] TRACE mcmakler.test.base.MainDriver - saved ad clicked
+00:40:06.582 [main] INFO  mcmakler.test.base.MainDriver - Ad Name input
+00:40:07.119 [main] INFO  mcmakler.test.base.MainDriver - clear Ad Name input

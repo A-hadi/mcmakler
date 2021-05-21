@@ -1,0 +1,32 @@
+package mcmakler.repository.online;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class AdvertisementsPage {
+	WebDriver driver;
+	public AdvertisementsPage(WebDriver driver) {
+		this.driver=driver;
+		PageFactory.initElements(driver, this);
+	}
+	
+	@FindBy(xpath="//a [@class='al-add__button md-icon-button md-button md-ink-ripple']")
+	WebElement addAdLink;
+	
+	public WebElement addNewAdLink()
+	   {
+		   return addAdLink;
+	   }
+	
+	@FindBy(xpath="//tbody [@class='md-body']")
+	WebElement adsTable;
+	
+	public WebElement adsTable()
+	   {
+		   return adsTable;
+	   }
+	
+
+}

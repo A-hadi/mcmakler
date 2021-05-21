@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="23390" started-at="2021-05-20T22:46:11Z" finished-at="2021-05-20T22:46:34Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="23390" started-at="2021-05-20T22:46:11Z" finished-at="2021-05-20T22:46:34Z">
+      <class name="mcmakler.VerifyEditAdWithValidDataTest">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="setupDriver" is-config="true" duration-ms="2021" started-at="2021-05-21T00:46:23Z" finished-at="2021-05-21T00:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="actionLaunchLoginPage()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="actionLaunchLoginPage" is-config="true" duration-ms="2012" started-at="2021-05-21T00:46:25Z" finished-at="2021-05-21T00:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionLaunchLoginPage -->
+        <test-method status="PASS" signature="addNewAd()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="addNewAd" is-config="true" duration-ms="4074" started-at="2021-05-21T00:46:27Z" finished-at="2021-05-21T00:46:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAd -->
+        <test-method status="PASS" signature="verify001EditisSavedAndAppearOnList()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="verify001EditisSavedAndAppearOnList" duration-ms="823" started-at="2021-05-21T00:46:31Z" finished-at="2021-05-21T00:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify001EditisSavedAndAppearOnList -->
+        <test-method status="PASS" signature="verify002EditisSavedAgainstAPI()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="verify002EditisSavedAgainstAPI" duration-ms="1731" started-at="2021-05-21T00:46:32Z" finished-at="2021-05-21T00:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify002EditisSavedAgainstAPI -->
+        <test-method status="PASS" signature="tearDownDriver()[pri:0, instance:mcmakler.VerifyEditAdWithValidDataTest@3349e9bb]" name="tearDownDriver" is-config="true" duration-ms="205" started-at="2021-05-21T00:46:34Z" finished-at="2021-05-21T00:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDriver -->
+      </class> <!-- mcmakler.VerifyEditAdWithValidDataTest -->
+      <class name="mcmakler.VerifyAddNewAdWithValidDataTest">
+        <test-method status="PASS" signature="setupEnvironment()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="setupEnvironment" is-config="true" duration-ms="10" started-at="2021-05-21T00:46:11Z" finished-at="2021-05-21T00:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEnvironment -->
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="setupDriver" is-config="true" duration-ms="4372" started-at="2021-05-21T00:46:11Z" finished-at="2021-05-21T00:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="actionLaunchLoginPage()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="actionLaunchLoginPage" is-config="true" duration-ms="2050" started-at="2021-05-21T00:46:15Z" finished-at="2021-05-21T00:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionLaunchLoginPage -->
+        <test-method status="PASS" signature="addNewAd()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="addNewAd" is-config="true" duration-ms="1501" started-at="2021-05-21T00:46:17Z" finished-at="2021-05-21T00:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAd -->
+        <test-method status="PASS" signature="verify001AddisSavedAndAppearOnList()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="verify001AddisSavedAndAppearOnList" duration-ms="778" started-at="2021-05-21T00:46:19Z" finished-at="2021-05-21T00:46:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify001AddisSavedAndAppearOnList -->
+        <test-method status="PASS" signature="verify002AddisSavedAgainstAPI()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="verify002AddisSavedAgainstAPI" duration-ms="3600" started-at="2021-05-21T00:46:20Z" finished-at="2021-05-21T00:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify002AddisSavedAgainstAPI -->
+        <test-method status="PASS" signature="tearDownDriver()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="tearDownDriver" is-config="true" duration-ms="193" started-at="2021-05-21T00:46:23Z" finished-at="2021-05-21T00:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDriver -->
+        <test-method status="PASS" signature="calledAfterTestSuite()[pri:0, instance:mcmakler.VerifyAddNewAdWithValidDataTest@3c19aaa5]" name="calledAfterTestSuite" is-config="true" duration-ms="0" started-at="2021-05-21T00:46:34Z" finished-at="2021-05-21T00:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calledAfterTestSuite -->
+      </class> <!-- mcmakler.VerifyAddNewAdWithValidDataTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
